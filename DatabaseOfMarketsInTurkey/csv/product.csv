@@ -1,0 +1,201 @@
+
+1;Su;2.25
+2;Peynir;24.95
+3;Kirmizi Et;52
+4;Tavuk;28.95
+5;Coca Cola;4.25
+6;Fanta;4.25
+7;Sprite;4.25
+8;Lipton Ice Tea;4.5
+9;Fuse tea;3.95
+10;Didi Ice Tea;3.95
+11;Doritos;4.75
+12;Ruffles;4.75
+13;Cheetos;1
+14;Pringles;12
+15;Yumurta;9.95
+16;Yogurt;6.95
+17;Tuz;3.45
+18;Biber;19.90
+19;Domates;9.95
+20;Patates;9.95
+21;Sogan;6.95
+22;Ananas;12.90
+23;Un;5.50
+24;Makarna;2.20
+25;Ketcap;7.5
+26;Barbeku sosu;9.95
+27;Mayonez;9.95
+28;Ekmek;1.25
+29;Pepsi;3.95
+30;Kitkat;1.15
+31;Dido;1.5
+32;Halley;0.75
+33;Albeni;1.75
+34;Cokokrem;9.55
+35;SuperFresh Pizza;14.90
+36;SuperFresh Patates;12.90
+37;Misir;3.80
+38;Ton Baligi;17
+39;Salatalik;3.75
+40;Sogan Halkasi;11.70
+41;Patlican;5.45
+42;Havuc;6.90
+43;Sarimsakli Mayonez;14.90
+44;Elma;5
+45;Armut;6.95
+46;Kavun;7.90
+47;Karpuz;5
+48;Uzum;28.90
+49;Nutella;12.45
+50;Yesil Zeytin;27.90
+51;Salam;3.75
+52;Sosis;22.90
+53;Cay;14.45
+54;Seker;4.45
+55;Zeytin Yagi;19.50
+56;Aycicek Yagi;12.90
+57;Sabun;17.95
+58;Sampuan;21.90
+59;Mendil;6.50
+60;Sakiz;3.25
+61;Nohut;7.25
+62;Fasulye;9.95
+63;Colgate 360;11.95
+64;Perfum;39.95
+65;Deodorant;16.90
+66;Kayisi;14.90
+67;Sarap;115
+68;Bira;10
+69;Margarin;3.75
+70;Redbull;5.95
+71;Mercimek;7.75
+72;Tekila;109
+73;Cin;111
+74;Sut;3.95
+75;Marlboro;15
+76;Winston;13
+77;Parliament;15.50
+78;Badem;15.25
+79;Findik;9
+80;Milka;6.90
+81;Magnum Badem;5
+82;Damak;5.25
+83;Marul;8.85
+84;Siyah Zeytin;27.90
+85;Cilek;8.75
+86;Muz;12.90
+87;Tursu;9.25
+88;Kahve;16.90
+89;Lokum;14.75
+90;Nugget;4.95
+91;Pasta;17.90
+92;Viski;190
+93;Tabak;6.90
+94;Bardak;6.90
+95;Muratti;13
+96;Limonata;3.95
+97;Rach sosu;5.60
+98;Oreo;2
+99;Tutku;1.75
+100;Pirinc;7.95
+101;Coco star;1
+102;Portakal;3.99
+103;Avakado;7.9
+104;Bogurtlen;20.75
+105;Yaban Mersini;9.95
+106;Eti hosbes;2
+107;Mango;8.95
+108;Hindistan Cevizi;4.9
+109;Kivi;9.95
+110;Visne suyu;4.35
+111;Fistik;34
+112;Ejderha Meyvesi;14.90
+113;Tatli Patates;16.9
+114;Mantar;5.45
+115;Brokoli;14.90
+116;Kinder;5.75
+117;Karam;2.75
+118;Petito;1
+119;Magnum classic;5
+120;Magnum beyaz;5
+121;Cornetto Oreo;4.75
+122;Cokonat;1
+123;Toblerone;9.50
+124;Bonibon;3.45
+125;Caramio;1.95
+126;Nestle gofret;1
+127;Ferrero rocher;32.5
+128;Ritter sport cikolata;16.95
+129;Ritter sport beyaz;18.95
+130;Nutymax;2.5
+131;M&m;4
+132;Toffie;9.95
+133;Kestane;7.45
+134;Fruko;2.95
+135;Sarimsakli Yogurt;7.65
+136;Salca;13.25
+137;Kajun baharati;13.95
+138;Haydari;5.25
+139;Sucuk;32.90
+140;Pastirma;40
+141;Surahi;20
+142;Mum;29.90
+143;Kabak Cekirdegi;9
+144;Bebek Bezi;28.50
+145;Kulaklik;100
+146;Playstation 4;1800
+147;Xbox One;1800
+148;Yorgan;50
+149;Yastik;22.95
+150;Masa ortusu;20
+151;Patlican Ezmesi;54.9
+152;Acili ezme;44.5
+153;Mucver;42.5
+154;Icli kofte;7
+155;Kiyma;32
+156;Tavuk kanat;26.95
+157;Tavuk but;11.95
+158;Antrikot;99.90
+159;Kofte;30.90
+160;Pirzola;75.95
+161;Sutlac;3.45
+162;Baklava;47.92
+163;Kemalpasa;30
+164;Puding;5
+165;Trilece;5.95
+166;Irmik Helvasi;6.30
+167;Bosnak Boregi;30
+168;Su Boregi;30
+169;Kunefe;5
+170;Peynirli Pogaca;1
+171;Zeytinli Pogaca;1
+172;Sade Pogaca;1
+173;Sade Acma;2
+174;Turta;4.5
+175;Oda spreyi;7.75
+176;El lambasi;5
+177;Bicak;5
+178;Tencere;24.90
+179;Tava;24.90
+180;Uzatma Kablosu;12.25
+181;Tornavida;30
+182;Tukenmez Kalem;2
+183;Kursun Kalem;1
+184;Defter;3
+185;Pamuk;5
+186;Kalamar;36.90
+187;Saat;120
+188;Oyuncak;20
+189;Lamba;30
+190;Mezgit;20
+191;Hamsi;10.95
+192;Somon;14.90
+193;Levrek;30
+194;Kalkan Baligi;50
+195;Tahin;16.45
+196;Perde;127.90
+197;Canta;50
+198;Tepsi;22.90
+199;Cig Kofte;17.90
+200;Pilaki;8.25
